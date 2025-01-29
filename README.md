@@ -11,7 +11,7 @@ Welcome to my AWS Projects Portfolio! This repository is a showcase of my profic
 
 ## About Me
 
-Hello, I'm Kevin Kiruri, and my passion lies in cloud computing and AWS. This portfolio is a testament to my ability to design, construct, and manage AWS solutions for diverse use cases. Dive into each project to gain a deeper understanding of my approach to AWS architecture.
+Hello, I'm Sushant Bahadure, and my passion lies in cloud computing and AWS. This portfolio is a testament to my ability to design, construct, and manage AWS solutions for diverse use cases. Dive into each project to gain a deeper understanding of my approach to AWS architecture.
 
 ## Projects Overview
 
@@ -67,11 +67,11 @@ If any of these projects pique your interest, simply navigate to the respective 
 
 Should you have any inquiries, feedback, or wish to explore potential collaboration opportunities, please don't hesitate to get in touch:
 
-- **LinkedIn:** [Kevin Kiruri's LinkedIn](https://www.linkedin.com/in/kevin-kiruri/)
-- **Twitter:** [Kevin Kiruri's Twitter](https://twitter.com/kevquinone)
+- **LinkedIn:** [Sushant Bahadure's LinkedIn](https://www.linkedin.com/in/sushant-bahadure-3a1923213/)
+
 
 Thank you for visiting my AWS Projects Portfolio! I trust you'll find these projects not only informative but also inspiring.
 
 ---
 
-*Author: [Kevin Kiruri](https://www.linkedin.com/in/kevin-kiruri/)*
+*Author: [Sushant Bahadure](https://www.linkedin.com/in/sushant-bahadure-3a1923213/)*
